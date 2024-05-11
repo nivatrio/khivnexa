@@ -1,7 +1,7 @@
 {
   "inverters": [
     {
-      "name": "khivnexa in1",
+      "name": "khivnexa inv1",
       "slaveId": 1,
       "slaveType":"RTU",
       "functionCode": 4,
@@ -36,7 +36,7 @@
 },
 {
   "name": "khivnexa inv3",
-  "slaveId": 4,
+  "slaveId": 3,
   "slaveType":"RTU",
   "functionCode": 4,
   "slaveIp" : "192.168.1.138:502",
