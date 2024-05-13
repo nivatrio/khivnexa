@@ -1,9 +1,9 @@
 {
   "zedcustomer" : "khivnexa",
   "plantsize": 100,
-  "zedlimit": 0,
+  "zedlimit": 100,
   "plantoperatingpercentage":100,
-  "resetzed": "n",
+  "resetzed": "y",
   "zedbasedon": "load",
   "loadformin": "all",
   "zedmeter": [
